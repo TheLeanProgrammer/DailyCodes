@@ -2,6 +2,6 @@
 
 Coding is Fun! Do it everyday 💯💯
 
-## List
+![DailyCodes](./imig.png)
 
-1. [String Reversal](#)
+1. [String Reversal](./code1/)

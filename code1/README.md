@@ -2,6 +2,8 @@
 
 ![strrev](./code.png)
 
+## [Code](./strRev.js)
+
 ```js
 function dailyCode (str) {
     return str

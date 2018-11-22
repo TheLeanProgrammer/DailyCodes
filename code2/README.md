@@ -17,6 +17,7 @@ function dailyCode(n) {
 console.log(dailyCode(3)); 
 console.log(dailyCode(4)); 
 ```
+
 ## [Python Implementation](./fact.py)
 
 ```python

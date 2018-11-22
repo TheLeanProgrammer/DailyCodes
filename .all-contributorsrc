@@ -1,0 +1,25 @@
+{
+  "projectName": "DailyCodes",
+  "projectOwner": "MadhavBahlMD",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "MadhavBahlMD",
+      "name": "MADHAV BAHL",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26179770?v=4",
+      "profile": "http://madhavbahl.tech/",
+      "contributions": [
+        "doc",
+        "code",
+        "design",
+        "ideas"
+      ]
+    }
+  ]
+}

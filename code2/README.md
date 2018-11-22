@@ -2,7 +2,7 @@
 
 ![strrev](./code.png)
 
-## [Code](./fact.js)
+## [Javascript Implementation](./fact.js)
 
 ```js
 function dailyCode(n) {
@@ -16,4 +16,17 @@ function dailyCode(n) {
 // Guess the output!
 console.log(dailyCode(3)); 
 console.log(dailyCode(4)); 
+```
+## [Python Implementation](./fact.py)
+
+```python
+def fact(n):
+    s=1
+    for i in range(1,n+1):
+        s=s*i
+    return s
+
+# Guess the output!
+print(fact(3))
+print(fact(4))
 ```

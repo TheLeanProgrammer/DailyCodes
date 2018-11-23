@@ -1,12 +1,6 @@
-# Fizz Buzz Problem
+/* ================= Code To Express ================= */
+/* =================== Daily Codes =================== */
 
-Write a program that prints the numbers from 1 to 100 and for multiples of ‘3’ print “Fizz” instead of the number and for the multiples of ‘5’ print “Buzz”.
-
-![cover](./cover.png)
-
-## [JavaScript implementation](./strRev.js)
-
-```js
 function fizzbuzz (num) {
     console.log('Solving FizzBuzz Problem');         
 
@@ -26,6 +20,5 @@ function fizzbuzz (num) {
 // Guess the output
 console.log('FizzBuzz upto 5');
 fizzbuzz(5);
-```
 
-![fizzbuzz](./code.png)
+/* ======= http://codetoexpress.tech/dc/day1/ ======= */

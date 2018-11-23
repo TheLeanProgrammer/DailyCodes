@@ -1,33 +1,32 @@
-# Factorial Using Recursion
+# String Reversal
 
 ![strrev](./code.png)
 
-## [Javascript Implementation](./fact.js)
+## [Code](./strRev.js)
 
 ```js
-function dailyCode(n) {
-    if (n<=1) {
-        return 1;
-    } else {
-        return n*dailyCode(n-1);
-    }
+function dailyCode (str) {
+    return str
+      .split('')
+      .reverse()
+      .join('');
 }
 
 // Guess the output!
-console.log(dailyCode(3)); 
-console.log(dailyCode(4)); 
+console.log(dailyCode('Hello')); 
+console.log(dailyCode('Greetings')); 
 ```
 
-## [Python Implementation](./fact.py)
+## [Python Implementation](./strRev.py)
 
 ```python
-def fact(n):
-    s=1
-    for i in range(1,n+1):
-        s=s*i
-    return s
+def strRev(a):
+    return a[::-1]
+
+stringList=['Hello','Greetings']
+stringRevList=[strRev(i) for i in stringList]
 
 # Guess the output!
-print(fact(3))
-print(fact(4))
+for i in stringRevList:
+    print(i)
 ```

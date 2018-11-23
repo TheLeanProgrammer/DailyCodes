@@ -4,7 +4,7 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
-    "README.md"
+    "CONTRIBUTORS.md"
   ],
   "imageSize": 100,
   "commit": true,
@@ -17,18 +17,7 @@
       "contributions": [
         "doc",
         "code",
-        "design",
-        "ideas"
-      ]
-    },
-    {
-      "login": "Razdeep",
-      "name": "Rajdeep Roy Chowdhury",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/32531173?v=4",
-      "profile": "http://www.linkedin.com/in/razdeeproychowdhury",
-      "contributions": [
-        "doc",
-        "code"
+        "design"
       ]
     }
   ]

@@ -1,8 +1,8 @@
 # String Reversal
 
-![strrev](./code.png)
+![cover](./cover.png)
 
-## [Code](./strRev.js)
+## [JavaScript Implementation](./strRev.js)
 
 ```js
 function dailyCode (str) {
@@ -16,6 +16,8 @@ function dailyCode (str) {
 console.log(dailyCode('Hello')); 
 console.log(dailyCode('Greetings')); 
 ```
+
+![JS](./code.png)
 
 ## [Python Implementation](./strRev.py)
 

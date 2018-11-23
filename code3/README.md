@@ -1,6 +1,6 @@
 # Factorial Using Recursion
 
-![strrev](./code.png)
+![cover](./cover.png)
 
 ## [Javascript Implementation](./fact.js)
 
@@ -17,6 +17,8 @@ function dailyCode(n) {
 console.log(dailyCode(3)); 
 console.log(dailyCode(4)); 
 ```
+
+![fact](./code.png)
 
 ## [Python Implementation](./fact.py)
 

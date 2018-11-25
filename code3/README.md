@@ -33,3 +33,23 @@ def fact(n):
 print(fact(3))
 print(fact(4))
 ```
+
+## [C Implementation](./fact.c)
+
+```c
+// fact Function
+int fact(int num) {
+    if(num == 0)
+        return 1;
+    else
+        return num * fact(num - 1);
+}
+
+//main Function
+int main(void) {
+    int answer;
+    answer = fact(5);
+    printf("Factorial is: %d", answer);
+    return 0;
+}
+```

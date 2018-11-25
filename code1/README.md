@@ -6,7 +6,7 @@ Read Full Problem Here: [Fizz Buzz](https://medium.com/code-to-express/daily-cod
 
 ![cover](./cover.png)
 
-## [JavaScript implementation](./strRev.js)
+## [JavaScript implementation](./fizzbuzz.js)
 
 ```js
 function fizzbuzz (num) {

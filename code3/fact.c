@@ -1,3 +1,9 @@
+/*
+ *Author: Aayush Bisen
+ *GitHub: https://github.com/aayushbisen
+ */
+
+
 #include<stdio.h>
 
 int fact(int num);

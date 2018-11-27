@@ -1,3 +1,9 @@
+/*
+ *Author: Aayush Bisen
+ *GitHub: https://github.com/aayushbisen
+ */
+
+
 #include<stdio.h>
 #define MAX 100
 

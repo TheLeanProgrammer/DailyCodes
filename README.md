@@ -18,3 +18,9 @@
 2. [Day 2 - String Reversal](./code2/)
 3. [Day 3 - Factorial](./code3/)
 
+## Timeline
+
+<p align="center">
+  <img src="./timeline.png" alt="timeline">
+</p>
+

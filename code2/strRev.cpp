@@ -1,8 +1,8 @@
-/*
-* REVERSING A STRING
-* author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
-* github: https://github.com/razdeep
-*/
+/**
+ * REVERSING A STRING
+ * author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
+ * github: https://github.com/razdeep
+ */
 #include<iostream>
 
 using namespace std;

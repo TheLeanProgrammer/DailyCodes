@@ -1,8 +1,8 @@
-/*
-* FIZZBUZZ
-* author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
-* github: https://github.com/razdeep
-*/
+/**
+ * FIZZBUZZ
+ * author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
+ * github: https://github.com/razdeep
+ */
 
 #include<iostream>
 

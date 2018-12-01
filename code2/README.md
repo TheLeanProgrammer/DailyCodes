@@ -67,3 +67,32 @@ int main(void) {
     return 0;
 }
 ```
+
+## [C++ Implementation](./strRev.cpp)
+
+```cpp
+#include<iostream>
+
+using namespace std;
+
+// Reversing Function
+string strRev(const string& s)
+{
+    static string temp=s;
+    int k=0;
+    for(int i=s.size()-1;i>=0;i--)
+    {
+        temp[k++]=s[i];
+    }
+    return temp;
+}
+
+// main function
+int main()
+{
+    string s="Hello";
+    string rev=strRev(s);
+    cout<<rev<<endl;
+    return 0;
+}
+```

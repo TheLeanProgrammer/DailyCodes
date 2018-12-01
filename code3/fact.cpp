@@ -1,8 +1,8 @@
-/*
-* FACTORIAL OF A NUMBER
-* author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
-* github: https://github.com/razdeep
-*/
+/**
+ * FACTORIAL OF A NUMBER
+ * author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
+ * github: https://github.com/razdeep
+ */
 #include<iostream>
 
 using namespace std;

@@ -4,8 +4,6 @@
  * github: @ashwek
  */
 
-import java.lang.StringBuffer;
-
 class factorial{
 
 	public static int factorial(int num){

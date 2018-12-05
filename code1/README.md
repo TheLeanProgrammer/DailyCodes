@@ -67,7 +67,11 @@ int main()
     int i;
     for(i=1;i<=100;i++)
     {
+<<<<<<< HEAD
         if( (i%5==0) && (i%3==0) )
+=======
+        if(i%15 == 0)
+>>>>>>> master
         {
             cout<<"FizzBuzz"<<endl;
         }
@@ -88,6 +92,7 @@ int main()
     return 0;
 }
 
+<<<<<<< HEAD
 ```
 
 
@@ -111,4 +116,6 @@ if __name__=='__main__':
     for i in range(0,101):
         fizzbuzz(i)
         
+=======
+>>>>>>> master
 ```

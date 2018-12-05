@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 /*
 * REVERSING A STRING
 * author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
 * github: https://github.com/razdeep
 */
+=======
+/**
+ * REVERSING A STRING
+ * author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
+ * github: https://github.com/razdeep
+ */
+>>>>>>> master
 #include<iostream>
 
 using namespace std;
@@ -24,4 +32,8 @@ int main()
     string rev=strRev(s);
     cout<<rev<<endl;
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master

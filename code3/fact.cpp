@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 /*
 * FACTORIAL OF A NUMBER
 * author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
 * github: https://github.com/razdeep
 */
+=======
+/**
+ * FACTORIAL OF A NUMBER
+ * author: Rajdeep Roy Chowdhury<rrajdeeproychowdhury@gmail.com> 
+ * github: https://github.com/razdeep
+ */
+>>>>>>> master
 #include<iostream>
 
 using namespace std;
@@ -23,4 +31,8 @@ int main()
     int answer=factorial(n);
     cout<<"Factorial is: "<<answer<<endl;
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master

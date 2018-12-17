@@ -1,6 +1,7 @@
 <h1 align="center">
   Daily Codes
 </h1>
+<h2 color="red"> Codebase Shifted to https://github.com/CodeToExpress/dailycodebase </h2>
 <p align="center">
   Coding is Fun! Do it everyday 💯💯
   <br />
@@ -14,9 +15,7 @@
 
 ## Code Today!
 
-1. [Day 1 - Fizz Buzz](./code1/)
-2. [Day 2 - String Reversal](./code2/)
-3. [Day 3 - Factorial](./code3/)
+#### [Visit https://github.com/CodeToExpress/dailycodebase](https://github.com/CodeToExpress/dailycodebase)
 
 ## Timeline
 
